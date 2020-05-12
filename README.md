@@ -1,17 +1,17 @@
-## ANÁLISE ESTATÍSTICA E MODELAGEM PREDITIVA DE SÉRIES TEMPORAIS EM PYTHON (DSA)
+## Análise Estatística e Modelagem Preditiva de Séries Temporais em Python
 
-**O Que São Séries Temporais?
+### O Que São Séries Temporais?
 
 Uma série temporal é um conjunto sequencial de pontos de dados, medido tipicamente em tempos sucessivos.
 É matematicamente definido como um conjunto de vetores x (t), t = 0,1,2, ... onde t representa o tempo decorrido. A variável x(t) é tratada como uma variável aleatória.
 
-**Espere, o que é uma variável aleatória?
+### Espere, o que é uma variável aleatória?
 
 Uma variável aleatória é uma variável quantitativa, cujo resultado (valor) depende de fatores aleatórios. Um exemplo de uma variável aleatória é o resultado do lançamento de um dado que pode ter qualquer número entre 1 e 6 como resultado. Embora possamos conhecer os seus possíveis resultados, o resultado em si depende de fatores de sorte. Uma variável aleatória pode ser uma medição de um parâmetro que pode gerar valores diferentes. O conceito de variável aleatória é essencial em estatística e em outros métodos quantitativos para a representação de fenômenos incertos.
 
 As variáveis aleatórias podem ser classificadas em variáveis aleatórias discretas, contínuas e mistas.
 
-***Voltando às séries temporais:
+### Voltando às séries temporais:
 
 As medições realizadas durante um evento em uma série temporal são organizadas em uma ordem cronológica adequada.
 Uma série temporal contendo registros de uma única variável é denominada como univariada e mais de uma variável como multivariada. O tempo não é uma variável dos dados, mas sim o índice dos dados.
@@ -47,7 +47,7 @@ As séries temporais adicionam uma dependência explícita da ordem entre as obs
 
 Essa dimensão adicional de tempo é uma restrição e uma estrutura que fornece uma fonte de informações adicionais. Portanto, uma série temporal é uma sequência de observações tomadas sequencialmente no tempo.
 
-**Análise de Séries Temporais
+### Análise de Séries Temporais
 
 Ao usar Estatística Clássica, a principal preocupação é a análise de séries temporais. A análise de séries temporais envolve o desenvolvimento de modelos que melhor capturam ou descrevem uma série temporal observada para entender as causas subjacentes. Este campo de estudo busca o "porquê" por trás de um conjunto de dados de séries temporais.
 Isso geralmente envolve fazer suposições sobre a forma dos dados e decompor as séries temporais em componentes.
