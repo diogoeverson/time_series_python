@@ -54,7 +54,7 @@ Isso geralmente envolve fazer suposições sobre a forma dos dados e decompor as
 A qualidade de um modelo descritivo é determinada por quão bem ele descreve todos os dados disponíveis e a interpretação que fornece para melhor informar o domínio do problema.
 O objetivo principal da análise de séries temporais é desenvolver modelos matemáticos que forneçam descrições plausíveis a partir de amostras de dados.
 
-**Previsão de Séries Temporais
+### Previsão de Séries Temporais
 
 Fazer previsões sobre o futuro é chamado de extrapolação no tratamento estatístico clássico de dados de séries temporais. Os campos mais modernos se concentram no tópico e se referem a ele como previsão de séries temporais.
 
